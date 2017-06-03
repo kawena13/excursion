@@ -17,11 +17,12 @@ h1 {
 h2{
   font-weight: 300;
   font-size: 42px;
+  color: white;
   text-align: center;
 }
 
 .download {
-  font-color: aquamarine;
+  color: aquamarine;
   font-size: 16px;
   text-align: center;
 }
