@@ -8,7 +8,7 @@ body {
 }
 
 h1 {
-  font-weight: normal;
+  font-weight: bold;
   font-size: 50px;
   color: white;
   text-align: center;
@@ -30,6 +30,7 @@ h2 {
 .info {
   font-size: 21px;
   color: gray;
+  text-align: center;
 }
 
 .copyright {
